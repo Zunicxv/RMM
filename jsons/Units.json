@@ -98,6 +98,7 @@
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
+	},
 {
 		"name": "Longbowman",
 		"unitType": "Archery",
@@ -205,7 +206,7 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "tankshot"
 		//German unique unit, stronger than Tank
-	}
+	},
 	{
 		"name": "Rocket Artillery",
 		"unitType": "Siege",
