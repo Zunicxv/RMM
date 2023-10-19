@@ -34,7 +34,7 @@
 			{
 		"name": "Jaguar",
 		"unitType": "Sword",
-		"uniqueTo": ["Aztecs","Rome"],
+		"uniqueTo": "Aztecs",
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 8,
