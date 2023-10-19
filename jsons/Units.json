@@ -64,6 +64,7 @@
 		"name": "Quinquereme",
 		"unitType": "Melee Water",
 		"uniqueTo": "Carthage",
+		"uniqueTo": "Rome",
 		"replaces": "Trireme",
 		"movement": 4,
 		"strength": 13,
