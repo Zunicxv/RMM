@@ -66,7 +66,7 @@
         "row": 1
 	},
 	{
-		"name": "Extended Range",
+		"name": "Extended Range I",
 		"prerequisites": ["Accuracy III","Barrage III","Targeting II","Bombardment II", "Wolfpack II"],
 		"uniques": ["[+1] Range"],
 		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water","Submarine"],
@@ -74,12 +74,20 @@
         "row": 3
 	},
 	{
+		"name": "Extended Range II",
+		"prerequisites": ["Extended Range I"],
+		"uniques": ["[+1] Range"],
+		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water","Submarine"],
+        "column": 3,
+        "row": 4
+	},
+	{
 		"name": "Indirect Fire",
 		"prerequisites": ["Accuracy III", "Barrage III", "Bombardment II", "Targeting II"],
 		"uniques": ["Ranged attacks may be performed over obstacles"],
 		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water"],
         "column": 3,
-        "row": 4
+        "row": 5
 	},
 
 	// Melee, Mounted+Armor
