@@ -1,4 +1,4 @@
-[
+mi[
 
 	{
 		"name": "Heal Instantly",
@@ -66,7 +66,7 @@
         "row": 1
 	},
 	{
-		"name": "Extended Range I",
+		"name": "Extended Range",
 		"prerequisites": ["Accuracy III","Barrage III","Targeting II","Bombardment II", "Wolfpack II"],
 		"uniques": ["[+1] Range"],
 		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water","Submarine"],
@@ -74,8 +74,8 @@
         "row": 3
 	},
 	{
-		"name": "Extended Range II",
-		"prerequisites": ["Extended Range I"],
+		"name": "Extended Range I",
+		"prerequisites": ["Extended Range"],
 		"uniques": ["[+1] Range"],
 		"unitTypes": ["Archery","Ranged Gunpowder","Siege","Ranged Water","Submarine"],
         "column": 3,
