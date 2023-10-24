@@ -10,7 +10,7 @@
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"requiredResource": "Iron",
-         "obsoleteTech": "Gunpowder",
+             "obsoleteTech": "Gunpowder",
 		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
 	 	"promotions": ["Cover I"],
 		"hurryCostModifier": 20,
